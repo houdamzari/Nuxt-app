@@ -1,5 +1,5 @@
 <template>
-  <div class="text-grey w-6/12 relative left-80">{{ paragraph }}
+  <div class="text-grey w-6/12 relative">{{ paragraph }}
   </div>
 </template>
 

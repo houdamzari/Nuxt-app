@@ -1,5 +1,8 @@
 <template>
   <div class="flex flex-row justify-between px-32 w-full h-96">
+    <div class="relative w-6/12 h-full">
+      <Swiper :data="data" />
+    </div>
     <div class="relative w-5/12 h-full">
       <div class="w-full h-full">
         <img
@@ -12,9 +15,6 @@
       <p class="text-grey w-full relative flex justify-center">
         Lorem ipsum dolor sit amet,
       </p>
-    </div>
-    <div class="relative w-6/12 h-full">
-      <Swiper :data="data" />
     </div>
   </div>
 </template>
