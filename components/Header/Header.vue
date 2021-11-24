@@ -1,7 +1,7 @@
 <template>
   <div class="w-full h-screen" >
     <Navbar/>
-    <div class="absolute bg-blue background-clip h-screen w-screen"></div>
+    <div class="absolute bg-blue background-clip h-screen w-full"></div>
     <Flex/>
   </div>
 </template>

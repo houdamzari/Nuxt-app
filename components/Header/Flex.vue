@@ -13,6 +13,6 @@
 <script>
 import List from "~/components/Header/List";
 export default {
-  components: {List,HeaderHeading}
+  components: {List}
 }
 </script>
