@@ -11,6 +11,9 @@
     <HeadingsSection :withbutton="true" :data="data" />
     <Spacer margin="20rem" />
     <Footer/>
+    <Spacer margin="10rem" />
+    <CopyRightSection/>
+
   </div>
 </template>
 
@@ -18,8 +21,9 @@
 import SlidersSection from "~/components/SlidersSection/SlidersSection";
 import HeadingsSection from "~/components/SlidersSection/HeadingsSection";
 import Footer from "../components/Footer/Footer";
+import CopyRightSection from "../components/CopyRightSection/CopyRightSection";
 export default {
-  components: {Footer, SlidersSection, HeadingsSection },
+  components: {CopyRightSection, Footer, SlidersSection, HeadingsSection },
   data() {
     return {
       data: {
