@@ -1,15 +1,17 @@
 <template>
-  <div class="text-grey w-6/12 relative">{{ paragraph }}
+  <div class="text-grey relative" :style="style">{{ paragraph }}
   </div>
 </template>
 
 <script>
 export default {
-  props : ['paragraph'],
-
+  props : ['paragraph','width'],
+  computed: {
+    style () {
+      return 'width: ' + this.width;
+    }
+  },
 }
 </script>
 
-<style scoped>
 
-</style>

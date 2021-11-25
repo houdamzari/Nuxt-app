@@ -7,7 +7,8 @@
       <div class="w-full h-full">
         <img
           class="absolute w-full h-full object-cover"
-          src="https://images.unsplash.com/photo-1609554496796-c345a5335ceb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+          src=
+            "./media/ethereumm.jpg"
           alt=""
         />
       </div>
@@ -27,17 +28,22 @@ export default {
     return {
       data: [
         {
-          title: "Foo",
-          para: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.",
+          title: "Ethereum",
+          para:
+            " Ethereum is a blockchain platform with its own cryptocurrency, called Ether (ETH) or Ethereum, and its own programming language, called Solidity.\n" +
+            "As a blockchain network, Ethereum is a decentralized public ledger for verifying and recording transactions. The network's users can create, publish, monetize, and use applications on the platform, and use its Ether cryptocurrency as payment. Insiders call the decentralized applications on the network \"dApps.\"\n" +
+            "As a cryptocurrency, Ethereum is second in market value only to Bitcoin, as of May 2021.1 ",
+
           para2:
-            "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.",
+          "Ethereum was launched in July 2015 by a small group of blockchain enthusiasts. They included Joe Lubin, founder of ConsenSys, a blockchain applications developer that uses the Ethereum network. Another co-founder, Vitalik Buterin, is credited with originating the Ethereum concept and now serves as its CEO and public face. Buterin is sometimes described as the world's youngest crypto billionaire. (He was born in 1994.) ",
           slogan: "Lorem ipsum dolor sit",
         },
         {
-          title: "Bar",
-          para: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.",
+          title: "Understanding Ethereum",
+          para:
+            " Ethereum was created to enable developers to build and publish smart contracts and distributed applications (dApps) that can be used without the risks of downtime, fraud, or interference from a third party.Ethereum describes itself as the world's programmable blockchain. It distinguishes itself from Bitcoin as a programmable network that serves as a marketplace for financial services, games, and apps, all of which can be paid for in Ether cryptocurrency and are safe from fraud, theft, or censorship.",
           para2:
-            "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.",
+          " Ethereum was created to enable developers to build and publish smart contracts and distributed applications (dApps) that can be used without the risks of downtime, fraud, or interference from a third party.Ethereum describes itself as the world's programmable blockchain. It distinguishes itself from Bitcoin as a programmable network that serves as a marketplace for financial services, games, and apps, all of which can be paid for in Ether cryptocurrency and are safe from fraud, theft, or censorship.",
           slogan: "Lorem ipsum dolor sit",
         },
       ],

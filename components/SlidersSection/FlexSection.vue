@@ -27,18 +27,18 @@ export default {
     return {
       data: [
         {
-          title: "Foo",
-          para: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.",
-          para2:
-            "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.",
-          slogan: "Lorem ipsum dolor sit",
+          title: "Bitcoin",
+          para: "Bitcoin is one of the first digital currencies to use peer-to-peer (P2P) technology to facilitate instant payments. The independent individuals and companies who own the governing computing power and participate in the Bitcoin network—Bitcoin \"miners\"—are in charge of processing the transactions on the blockchain and are motivated by rewards (the release of new Bitcoin) and transaction fees paid in Bitcoin.",
+          para2: "In this way, Bitcoin and other cryptocurrencies operate differently from fiat currency; in centralized banking systems, the currency is created at a rate matching the growth of the economy; this system is intended to maintain price stability. A decentralized system, like Bitcoin, sets the release rate ahead of time and according to an algorithm. ",
+          slogan: "The king of the MarketCap",
         },
         {
-          title: "Bar",
-          para: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.",
+          title: "Why Bitcoin ?",
+          para:
+          "Many Bitcoin supporters believe that digital currency is the future. Many individuals who endorse Bitcoin believe it facilitates a much faster, low-fee payment system for transactions across the globe. Although it is not backed by any government or central bank, Bitcoin can be exchanged for traditional currencies; in fact, its exchange rate against the dollar attracts potential investors and traders interested in currency plays. Indeed, one of the primary reasons for the growth of digital currencies like Bitcoin is that they can act as an alternative to national fiat money and traditional commodities like gold. ",
           para2:
-            "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.",
-          slogan: "Lorem ipsum dolor sit",
+          "The concept of a virtual currency is still novel and, compared to traditional investments, Bitcoin doesn't have much of a long-term track record or history of credibility to back it. With its increasing popularity, Bitcoin is becoming less experimental every day; still, after only a decade, all digital currencies remain in a development phase. \"It is pretty much the highest-risk, highest-return investment that you can possibly make,” says Barry Silbert, CEO of Digital Currency Group, which builds and invests in Bitcoin and blockchain companies.",
+          slogan: "The future Bitcoin",
         },
       ],
     };
