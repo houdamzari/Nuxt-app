@@ -1,8 +1,8 @@
 <template>
   <div>
-    <HeadingsSection/>
-    <Spacer margin="5rem"/>
-    <FlexSection/>
+    <HeadingsSection :data="data" />
+    <Spacer margin="5rem" />
+    <FlexSection />
   </div>
 </template>
 
@@ -10,7 +10,16 @@
 import HeadingsSection from "~/components/SlidersSection/HeadingsSection";
 import FlexSection from "~/components/SlidersSection/FlexSection";
 export default {
-  components: {FlexSection, HeadingsSection}
-}
+  components: { FlexSection, HeadingsSection },
+  data() {
+    return {
+      data: {
+        title: "",
+        slogan: "",
+        description:
+        ""
+      },
+    };
+  },
+};
 </script>
-
