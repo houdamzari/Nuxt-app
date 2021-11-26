@@ -14,7 +14,7 @@
       </div>
       <Spacer margin="25px" />
       <p class="text-grey w-full relative flex justify-center">
-        Lorem ipsum dolor sit amet,
+        Cryptocurrency
       </p>
     </div>
   </div>
@@ -36,7 +36,7 @@ export default {
 
           para2:
           "Ethereum was launched in July 2015 by a small group of blockchain enthusiasts. They included Joe Lubin, founder of ConsenSys, a blockchain applications developer that uses the Ethereum network. Another co-founder, Vitalik Buterin, is credited with originating the Ethereum concept and now serves as its CEO and public face. Buterin is sometimes described as the world's youngest crypto billionaire. (He was born in 1994.) ",
-          slogan: "Lorem ipsum dolor sit",
+          slogan: "Cryptocurrency",
         },
         {
           title: "Understanding Ethereum",
@@ -44,7 +44,7 @@ export default {
             " Ethereum was created to enable developers to build and publish smart contracts and distributed applications (dApps) that can be used without the risks of downtime, fraud, or interference from a third party.Ethereum describes itself as the world's programmable blockchain. It distinguishes itself from Bitcoin as a programmable network that serves as a marketplace for financial services, games, and apps, all of which can be paid for in Ether cryptocurrency and are safe from fraud, theft, or censorship.",
           para2:
           " Ethereum was created to enable developers to build and publish smart contracts and distributed applications (dApps) that can be used without the risks of downtime, fraud, or interference from a third party.Ethereum describes itself as the world's programmable blockchain. It distinguishes itself from Bitcoin as a programmable network that serves as a marketplace for financial services, games, and apps, all of which can be paid for in Ether cryptocurrency and are safe from fraud, theft, or censorship.",
-          slogan: "Lorem ipsum dolor sit",
+          slogan: "Cryptocurrency",
         },
       ],
     };

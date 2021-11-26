@@ -1,6 +1,6 @@
 <template>
   <div>
-    <HeadingsSection :data="data" />
+    <HeadingsSection :withbutton="false" :data="data" />
     <Spacer margin="5rem" />
     <FlexSection />
   </div>
@@ -14,10 +14,10 @@ export default {
   data() {
     return {
       data: {
-        title: "",
-        slogan: "",
+        title: "WHO ROLLS THE MARKET NOW ?",
+        slogan: "BITCOIN & ETHEREUM ",
         description:
-        ""
+        "Despite that these 2 coins don't belong to the metaverse, they almost have half of the whole market cap. Traders are always so insightful and optimistic about their futures since they know that in the near future, Blockchain will rule, and the death of centralised systems ( Banks) is inevitable.  "
       },
     };
   },

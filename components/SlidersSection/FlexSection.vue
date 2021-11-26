@@ -10,7 +10,7 @@
       </div>
       <Spacer margin="25px" />
       <p class="text-grey w-full relative flex justify-center">
-        Lorem ipsum dolor sit amet,
+        Cryptocurrency,
       </p>
     </div>
     <div class="relative w-6/12 h-full">
